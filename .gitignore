@@ -1,0 +1,33 @@
+# temp file name
+oopack
+
+# Finder cache files
+.DS_Store
+
+# emacs droppings
+*~
+\#*
+.\#*
+
+# Debug symbol directories
+*.dSYM
+
+# Xcode droppings
+*.xcuserdatad
+DerivedData
+
+# Excel droppings
+~$*
+
+# Build directories.
+build/
+
+# Folks can download this if they want from
+# http://code.google.com/p/core-plot/
+CorePlot_1.3
+
+# Scrivner
+binder.autosave
+
+# Random compiled utilities lying around
+check

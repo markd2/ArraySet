@@ -1,8 +1,11 @@
-
 import Cocoa
 
 
+// ------------------------------------------------------------
+// MARK: - Helper Functions
+
 // Two faces just eat the code.  Take off one face to run it.
+
 func 🤓🤓(thing: () -> Void) {
 }
 
@@ -11,22 +14,6 @@ func 🤓(thing: () -> Void) {
     thing()
 }
 
-
-
-#endif
-
-
-#if false
-
-
-// -------------
-
-
-#endif
-
-#if false
-
-#endif
 
 
 // ------------------------------------------------------------

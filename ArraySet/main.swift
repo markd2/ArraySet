@@ -272,7 +272,7 @@ var oneUseThings = [LargeDoNothing_OneUse]()
 
 
 // MARK: Protocol Type Call a function
-🤓 {
+🤓🤓 {
     if smallNothings.count == 0 {
         print("be sure to enable the 'Creation' code to set up the arrays")
         raise(11)
